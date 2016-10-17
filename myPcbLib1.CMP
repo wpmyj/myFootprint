@@ -1,0 +1,15 @@
+Component   : B
+PCB Library : myPcbLib1.PcbLib
+Date        : 2015/7/5
+Time        : 10:00:53
+
+
+
+Dimension : 5.207 x 5.182 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 2          0        0       0        0
+ Top Overlay                 0          0        0       1        1
+--------------------------------------------------------------------
+ Total                       2          0        0       1        1
