@@ -1,32 +1,15 @@
-Component Name : 74HC573
+Component Name : 3 HEADER
 
 Part Count : 2
 
-Part : U?
+Part : JP£¿
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : U?
-     Pins - (Normal) : 20
-          E              1              Passive
-          D0             2              Passive
-          D1             3              Passive
-          D2             4              Passive
-          D3             5              Passive
-          D4             6              Passive
-          D5             7              Passive
-          D6             8              Passive
-          D7             9              Passive
-          GND            10             Passive
-          L              11             Passive
-          Q7             12             Passive
-          Q6             13             Passive
-          Q5             14             Passive
-          Q4             15             Passive
-          Q3             16             Passive
-          Q2             17             Passive
-          Q1             18             Passive
-          Q0             19             Passive
-          VCC            20             Passive
+Part : JP£¿
+     Pins - (Normal) : 3
+          1              1              Passive
+          2              2              Passive
+          3              3              Passive
           Hidden Pins : 
 
