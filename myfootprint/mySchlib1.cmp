@@ -1,15 +1,28 @@
-Component Name : 3 HEADER
+Component Name : SIM800C_MODULE
 
 Part Count : 2
 
-Part : JP£¿
+Part : U?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : JP£¿
-     Pins - (Normal) : 3
-          1              1              Passive
-          2              2              Passive
-          3              3              Passive
+Part : U?
+     Pins - (Normal) : 16
+          5V+            1              Passive
+          V_TTL/EN       2              Passive
+          GND            3              Passive
+          TXD            4              Passive
+          RXD            5              Passive
+          DTR            6              Passive
+          SPKP           7              Passive
+          SPKN           8              Passive
+          MICN           9              Passive
+          MICP           10             Passive
+          RI             11             Passive
+          VRTC           12             Passive
+          GND            13             Passive
+          PWK            14             Passive
+          GND            15             Passive
+          VBAT           16             Passive
           Hidden Pins : 
 
